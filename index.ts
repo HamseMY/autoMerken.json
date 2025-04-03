@@ -1,5 +1,3 @@
-// index.ts
-
 import * as fs from 'fs';
 import * as readline from 'readline-sync';
 import { Car } from './interface';
