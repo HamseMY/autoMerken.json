@@ -1,0 +1,1 @@
+# autoMerken.json
